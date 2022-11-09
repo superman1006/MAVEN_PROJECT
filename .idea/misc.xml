@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ajax_module" />
+    <file type="web" url="file://$PROJECT_DIR$/JSP_Module" />
+    <file type="web" url="file://$PROJECT_DIR$/Tomcat_module" />
+    <file type="web" url="file://$PROJECT_DIR$/Tomcat_moudle" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/maven_module01/pom.xml" />
+        <option value="$PROJECT_DIR$/MYBATIS-DEMO/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis_module02/pom.xml" />
+        <option value="$PROJECT_DIR$/Tomcat_moudle/pom.xml" />
+        <option value="$PROJECT_DIR$/ajax_module/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

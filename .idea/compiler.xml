@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Tomcat_moudle" />
+        <module name="maven_module01" />
+        <module name="mybatis_module02" />
+        <module name="ajax_module" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="ajax_module" target="1.8" />
+      <module name="JSP_Module" target="1.8" />
+      <module name="maven_module01" target="1.8" />
+      <module name="MYBATIS-MODULE" target="1.8" />
+      <module name="mybatis_module02" target="1.8" />
+      <module name="Tomcat_Module" target="1.8" />
+      <module name="Tomcat_module" target="1.8" />
+      <module name="Tomcat_moudle" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

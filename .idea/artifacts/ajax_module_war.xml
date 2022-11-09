@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ajax_module:war">
+    <output-path>$PROJECT_DIR$/ajax_module/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ajax_module</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ajax-demo-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ajax_module:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Tomcat_moudle:war">
+    <output-path>$PROJECT_DIR$/Tomcat_moudle/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Tomcat_moudle</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Tomcat_moudle-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Tomcat_moudle:war exploded" />
+    </root>
+  </artifact>
+</component>
